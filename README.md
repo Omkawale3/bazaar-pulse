@@ -132,7 +132,7 @@ This is **NOT** SEBI-registered investment advice.
 ## 👤 Author
 
 **Om Ganesh Kawale**  
-IT Student | Roll No. IT-B-152
+IT Student 
 
 ---
 
